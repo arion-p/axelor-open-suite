@@ -21,6 +21,7 @@
 - Accounting Report: add the possibility to filter the ledger report to only see not completely lettered move lines.
 - LEAD: company name is now more highlighted.
 - LEAD: fill region and country automatically on change of city in lead.
+- SUPPLIER INVOICE : modify domain filter for Suppl. invoices to pay.
 
 ## Bug Fixes
 - ORDER LINE: add missing french translation for "freeze fields".
