@@ -23,6 +23,7 @@
 - LEAD: fill region and country automatically on change of city in lead.
 - SUPPLIER INVOICE : modify domain filter for Suppl. invoices to pay.
 - Partner : Fix customer situation report display value of contact partner jobTitle
+- PRODUCT: fix position Variant btn
 
 ## Bug Fixes
 - ORDER LINE: add missing french translation for "freeze fields".
